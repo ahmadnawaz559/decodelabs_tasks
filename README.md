@@ -1,1 +1,0 @@
-python password_strength_checker New.py
